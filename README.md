@@ -1,2 +1,2 @@
 # PhoneDictionary
-Phone Dictionary
+Phone dictionary written in C++.
